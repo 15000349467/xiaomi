@@ -1,0 +1,32 @@
+@charset "utf-8";
+/* CSS Document */
+.top{width:1200px;height:101px;margin:0 auto;}
+.top .logo{width:55px;height:55px;margin:24px 0 22px 0;float:left;}
+.top ul{float:left;height:101px;}
+.top ul li{font-size:18px;font-weight:normal;color:#101010;line-height:101px;height:101px;float:left;margin-left:41px;}
+.top input{width:140px;height:18px;border:1px solid #a0a0a0;border-radius:9px;float:right;margin:40px 2px 0 0;background:url(../images/index-top_06.jpg) no-repeat;background-position:120px center;}
+.banner{height:520px;background:url(../images/banner.png) no-repeat top center;}
+.main{width:1200px;height:2136px;margin:0 auto;}
+.main .one{height:562px;padding-top:30px;text-align:center;}
+.main .one h2{font-size:49px;font-weight:normal;color:#101010;line-height:74px;height:74px;}
+.main .one p{font-size:17px;font-weight:normal;color:#101010;line-height:20px;height:20px;margin-bottom:56px;}
+.main .one .pic{height:413px;}
+.main .one .pic .left{width:400px;height:413px;text-align:center;float:left;}
+.main .one .pic .left h3{font-size:20px;font-weight:normal;color:#101010;line-height:23px;height:23px;margin-top:11px;}
+.main .one .pic .left p{font-size:14px;font-weight:normal;color:#101010;line-height:27px;margin-bottom:12px;height:54px;}
+span{color:#d00b0b;}
+.main .one .pic .left a{display:block;width:123px;height:41px;background-color:#fc8e42;font-size:20px;font-weight:bolder;color:#fff;line-height:41px;margin-left:126px;}
+.main .two{height:617px;padding-top:30px;text-align:center;}
+.main .two h2{font-size:49px;font-weight:normal;color:#101010;line-height:74px;height:74px;}
+.main .two p{font-size:17px;font-weight:normal;color:#101010;line-height:20px;height:20px;margin-bottom:56px;}
+.main .two img{float:left;}
+.main .two .top{height:221px;margin-bottom:18px;}
+.main .two .top .mid{margin:0 19px 0 19px;}
+.main .three{height:807px;padding:30px 211px 0 211px;text-align:center;}
+.main .three h2{font-size:49px;font-weight:normal;color:#101010;line-height:74px;height:74px;}
+.main .three p{font-size:17px;font-weight:normal;color:#101010;line-height:20px;height:20px;margin-bottom:56px;}
+.main .three .text{font-size:16px;font-weight:normal;color:#101010;line-height:30px;height:360px;margin-bottom:70px;}
+.main .three .tubiao{width:165px;text-align:center;float:left;}
+.main .three .tubiao h3{font-size:18px;font-weight:normal;color:#101010;line-height:25px;height:25px;margin-top:8px;}
+.main .three .tubiao p{font-size:12px;font-weight:normal;color:#101010;line-height:18px;height:36px;}
+.main .three .mid{padding:0 139px 0 143px;}

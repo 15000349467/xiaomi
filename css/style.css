@@ -1,0 +1,21 @@
+@charset "utf-8";
+/* CSS Document */
+
+body,h1,h2,h3,h4,h5,h6,p,ul,li,input,option,textarea,dl,dt,dd{margin:0;padding:0;}
+body{font-family:arial,"微软雅黑";}
+ul{list-style:none;}
+a{text-decoration:none;color:#101010;}
+img,input{border:none;}
+.header{height:48px;background-color:#fc8e42;}
+.header .inner{width:1200px;height:48px;margin:0 auto;}
+.header .inner .left{float:left}
+.header .inner .right{float:right;}
+.header .inner li{font-size:13px;font-weight:normal;color:#101010;line-height:48px;height:48;float:left;}
+.header .inner .left li{margin-right:10px;}
+.header .inner .right li{margin-left:10px;}
+.footer{height:194px;background-color:#fc8e42;}
+.footer .inner{width:1200px;height:194px;margin:0 auto;}
+.footer .inner dl{width:165px;float:left;padding-top:20px;}
+.footer .inner dt{font-size:15px;font-weight:normal;color:#fff;line-height:44px;height:44px;}
+.footer .inner dd{font-size:13px;font-weight:normal;color:#fff;line-height:19px;height:19px;}
+.footer .inner p{float:left;width:210px;margin-top:32px;font-size:13px;font-weight:normal;color:#fff;line-height:20px;}
